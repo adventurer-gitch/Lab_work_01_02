@@ -6,13 +6,13 @@
 void secondTask()
 {
 	double point_x, point_y, sq_x, sq_y;
-	bool not_number_x, not_number_y, numbers_with_trash, if_nan, if_inf, hit;
+	bool not_number, numbers_with_trash, if_nan, if_inf, hit;
 
 	printf("[+] Enter x: ");
 
-	not_number_x = scanf_s("%lf", &point_x) != 1;
+	not_number = scanf_s("%lf", &point_x) != 1;
 
-	if (not_number_x)
+	if (not_number)
 	{
 		startErrorInput();
 		return;
@@ -20,9 +20,9 @@ void secondTask()
 
 	printf("[+] Enter y: ");
 
-	not_number_y = scanf_s("%lf", &point_y) != 1;
+	not_number = scanf_s("%lf", &point_y) != 1;
 
-	if (not_number_y)
+	if (not_number)
 	{
 		startErrorInput();
 		return;

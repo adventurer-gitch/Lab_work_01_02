@@ -1,4 +1,13 @@
 ﻿  main.c
+D:\Belarusian State University of Informatics and Radioelectronics\Faculty of Computer Systems and Networks\Computer Engineering\ОАиП\Лабораторные работы\Lab_work_01_02\firstTask.h(9,7): warning C4101: not_number: неиспользованная локальная переменная
+  (компиляция исходного файла "main.c")
+  
+D:\Belarusian State University of Informatics and Radioelectronics\Faculty of Computer Systems and Networks\Computer Engineering\ОАиП\Лабораторные работы\Lab_work_01_02\firstTask.h(9,38): warning C4101: non_positive_number: неиспользованная локальная переменная
+  (компиляция исходного файла "main.c")
+  
+D:\Belarusian State University of Informatics and Radioelectronics\Faculty of Computer Systems and Networks\Computer Engineering\ОАиП\Лабораторные работы\Lab_work_01_02\firstTask.h(9,19): warning C4101: number_with_trash: неиспользованная локальная переменная
+  (компиляция исходного файла "main.c")
+  
   Создание кода
   6 of 12 functions (50.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
